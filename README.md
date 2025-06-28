@@ -1,1 +1,1 @@
-# React-Project-3-Dice-Game-Public
+# React-Project-3-Dice-Game
